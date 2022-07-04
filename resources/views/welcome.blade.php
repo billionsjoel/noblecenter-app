@@ -23,6 +23,7 @@
 
 <body>
     @include('./layouts/app')
+    @include('./layouts/menu')
 </body>
 
 </html>
