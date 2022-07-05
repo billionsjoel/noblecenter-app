@@ -4,7 +4,7 @@
             alt="">
     </div>
     <div class="container header-content">
-        <h1>NOBEL CENTER FOR BEHAVIOUR CHANGE</h1>
+        <h1>NOBLE CENTER FOR BEHAVIOUR CHANGE</h1>
         <h3>Changing Behaviors, Transforming lives.</h3>
         <div class="btn-cta btn btn-primary mt-2">Get Started</div>
     </div>

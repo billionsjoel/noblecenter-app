@@ -25,8 +25,7 @@
 <body>
     @include('./layouts/app')
     @include('./layouts/menu')
-    @include('./components/header')
-    @include('./components/profile')
+    @include('./components/contact')
     @include('./components/footer')
 </body>
 

@@ -2,7 +2,7 @@
         <nav class="navbar navbar-expand-md navbar-light container" aria-label="Fourth navbar example">
             <div class="container-fluid">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    NCFBC
+                    <img src="{{ asset('/images/logo.png') }}" alt="" srcset="" class="logo">
                 </a>
                 <button class="navbar-toggler text-dark" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false"
@@ -13,19 +13,16 @@
                 <div class="collapse navbar-collapse text-dark" id="navbarsExample04">
                     <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="#">Home</a>
+                            <a class="nav-link" aria-current="page" href="{{ url('/') }}">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Blog</a>
+                            <a class="nav-link " href="{{ url('/about-us') }}" tabindex="-1"
+                                aria-disabled="true">About
+                                us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">About us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Team</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Contact Us</a>
+                            <a class="nav-link " href="{{ url('/contact-us') }}" tabindex="-1"
+                                aria-disabled="true">Contact Us</a>
                         </li>
                         {{-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown"

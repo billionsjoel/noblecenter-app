@@ -1,0 +1,17 @@
+.about {
+    margin-top: 12rem;
+}
+.about-title {
+    padding: 2rem 0;
+    color: #24afa8;
+}
+
+.about-content {
+    text-align: justify;
+    font-weight: 300;
+    line-height: 2rem;
+}
+
+p {
+    padding: 1rem 0;
+}

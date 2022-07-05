@@ -1,0 +1,42 @@
+.contact {
+    margin-top: 15rem;
+}
+.contact-card {
+    width: 400px;
+    text-align: justify;
+}
+
+.contact-details {
+    border-radius: 5px;
+    width: 800px;
+    padding: 2rem;
+    box-shadow: 0px 2px 3px 0px;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+
+.contact-item {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.contact-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-icon > span {
+    padding: 0 0 0 1rem;
+    text-align: end;
+    width: 100px;
+}
+
+.contact-icon > ion-icon {
+    border: 1px solid #c3c3c0;
+    border-radius: 100%;
+    padding: 2rem;
+}

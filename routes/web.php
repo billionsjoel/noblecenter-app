@@ -21,6 +21,8 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/donate', [App\Http\Controllers\HomeController::class, 'index'])->name('donate');
+Route::get('/about-us', [App\Http\Controllers\PagesController::class, 'about'])->name('about');
+Route::get('/contact-us', [App\Http\Controllers\PagesController::class, 'contact'])->name('contact');
 
 Auth::routes();
 
