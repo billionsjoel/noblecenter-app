@@ -1,13 +1,21 @@
+.profile-cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .profile > h2 {
     padding: 3rem 2rem 3rem 2rem;
     font-weight: 300;
     font-size: 30px;
     line-height: 3rem;
 }
+
 .profile-card {
     width: 25rem;
     text-align: center;
-    padding: 2rem;
+    padding: 0 2rem;
 }
 
 .icon {
@@ -34,5 +42,12 @@
     .profile {
         position: relative;
         top: -10rem;
+    }
+
+    .profile-cards {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
     }
 }
