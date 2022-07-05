@@ -1,0 +1,12 @@
+.profile {
+}
+
+.profile > h2 {
+    padding: 3rem 2rem 3rem 2rem;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 3rem;
+}
+
+@media (min-width: 641px) {
+}

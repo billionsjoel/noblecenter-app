@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Nobel Center for Behavior Change</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,6 +17,7 @@
     <style>
         body {
             font-family: 'Poppins', sans-serif;
+            background-color: white
         }
     </style>
 </head>
@@ -24,6 +25,8 @@
 <body>
     @include('./layouts/app')
     @include('./layouts/menu')
+    @include('./components/header')
+    @include('./components/profile')
 </body>
 
 </html>

@@ -1,40 +1,47 @@
-    <div>
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example">
+    <div class="shadow-sm p-3 mb-5 bg-body rounded fixed-top">
+        <nav class="navbar navbar-expand-md navbar-light container" aria-label="Fourth navbar example">
             <div class="container-fluid">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     NCFBC
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04"
-                    aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler text-dark" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <div class="collapse navbar-collapse" id="navbarsExample04">
+                <div class="collapse navbar-collapse text-dark" id="navbarsExample04">
                     <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
+                            <a class="nav-link" href="#">Blog</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                            <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">About us</a>
                         </li>
-                        <li class="nav-item dropdown">
+                        <li class="nav-item">
+                            <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Team</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Contact Us</a>
+                        </li>
+                        {{-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown"
-                                aria-expanded="false">Dropdown</a>
+                                aria-expanded="false">Contact Us</a>
                             <ul class="dropdown-menu" aria-labelledby="dropdown04">
                                 <li><a class="dropdown-item" href="#">Action</a></li>
                                 <li><a class="dropdown-item" href="#">Another action</a></li>
                                 <li><a class="dropdown-item" href="#">Something else here</a></li>
                             </ul>
-                        </li>
+                        </li> --}}
                     </ul>
                     <form class="navbar-nav ms-auto">
                         @guest
                             @if (Route::has('login'))
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                    <a class="nav-link text-primary" href="{{ route('login') }}">{{ __('Login') }}</a>
                                 </li>
                             @endif
                             {{-- @if (Route::has('register'))
@@ -63,7 +70,8 @@
                             </li>
                         @endguest
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('donate') }}">{{ __('Donate') }}</a>
+                            <a class="nav-link btn btn-primary text-white px-4"
+                                href="{{ route('donate') }}">{{ __('Donate') }}</a>
                         </li>
                     </form>
                 </div>
