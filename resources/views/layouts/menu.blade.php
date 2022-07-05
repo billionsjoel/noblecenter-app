@@ -1,8 +1,9 @@
     <div class="shadow-sm p-3 mb-5 bg-body rounded fixed-top">
         <nav class="navbar navbar-expand-md navbar-light container" aria-label="Fourth navbar example">
             <div class="container-fluid">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="{{ asset('/images/logo.png') }}" alt="" srcset="" class="logo">
+                <a class="navbar-brand logo" href="{{ url('/') }}">
+                    <img src="{{ asset('/images/logo.png') }}" height="45" width="45" alt=""
+                        srcset="">
                 </a>
                 <button class="navbar-toggler text-dark" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false"
