@@ -1,12 +1,38 @@
-.profile {
-}
-
 .profile > h2 {
     padding: 3rem 2rem 3rem 2rem;
     font-weight: 300;
     font-size: 30px;
     line-height: 3rem;
 }
+.profile-card {
+    width: 25rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+.icon {
+    background-color: rgb(216, 213, 213);
+    border-radius: 100px;
+    height: 5rem;
+    width: 5rem;
+    text-align: center;
+    padding: 1rem;
+    margin: 2rem auto;
+}
+
+.icon > ion-icon {
+    height: 3rem;
+    width: 3rem;
+    text-align: center;
+}
+
+.profile-text {
+    text-align: justify;
+}
 
 @media (min-width: 641px) {
+    .profile {
+        position: relative;
+        top: -10rem;
+    }
 }

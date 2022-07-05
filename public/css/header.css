@@ -3,7 +3,7 @@
 }
 
 .header-image > img {
-    height: 500px;
+    height: 550px;
     width: 100%;
     object-fit: cover;
 }
@@ -42,6 +42,6 @@
     .header-content {
         z-index: 1000;
         position: relative;
-        top: -350px !important;
+        top: -370px !important;
     }
 }
