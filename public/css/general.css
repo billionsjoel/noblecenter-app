@@ -2,11 +2,6 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-.logo > img{
-    height: 5rem;
-    width: 5rem;
-}
-
 .text-primary {
     color: #24afa8 !important;
 }

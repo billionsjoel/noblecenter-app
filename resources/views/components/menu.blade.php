@@ -2,8 +2,7 @@
         <nav class="navbar navbar-expand-md navbar-light container" aria-label="Fourth navbar example">
             <div class="container-fluid">
                 <a class="navbar-brand logo" href="{{ url('/') }}">
-                    <img src="{{ asset('/images/logo.png') }}" height="45" width="45" alt=""
-                        srcset="">
+                    <img src="{{ asset('/images/logo.png') }}" alt="" srcset="">
                 </a>
                 <button class="navbar-toggler text-dark" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false"
