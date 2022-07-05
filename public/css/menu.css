@@ -3,19 +3,19 @@
     width: 5rem !important;
 }
 
-.text-primary {
+.text-blue {
     color: #24afa8 !important;
 }
 
-.bg-primary {
+.bg-blue {
     background-color: #24afa8 !important;
 }
 
-.text-secondary {
+.text-light-blue {
     color: #1f6aa5 !important;
 }
 
-.bg-secondary,
-.btn-primary {
+.bg-light-blue,
+.btn-blue {
     background-color: #1f6aa5 !important;
 }
