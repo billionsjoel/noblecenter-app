@@ -1,21 +1,21 @@
 .logo > img {
-    height: 5rem !important;
-    width: 5rem !important;
+    height: 5rem ;
+    width: 5rem ;
 }
 
 .text-blue {
-    color: #24afa8 !important;
+    color: #24afa8 ;
 }
 
 .bg-blue {
-    background-color: #24afa8 !important;
+    background-color: #24afa8 ;
 }
 
 .text-light-blue {
-    color: #1f6aa5 !important;
+    color: #1f6aa5 ;
 }
 
 .bg-light-blue,
 .btn-blue {
-    background-color: #1f6aa5 !important;
+    background-color: #1f6aa5 ;
 }
