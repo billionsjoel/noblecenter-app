@@ -10,7 +10,7 @@
                     <li>&copy; Copyright 2022</li>
                 </ul>
             </div>
-            <div class="footer-donate btn btn-sm btn-primary">Donate Today</div>
+            <div class="footer-donate text-white btn btn-sm btn-blue">Donate Today</div>
         </div>
     </footer>
 </section>
