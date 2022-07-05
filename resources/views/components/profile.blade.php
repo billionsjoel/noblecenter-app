@@ -8,9 +8,10 @@
                     <ion-icon name="bulb-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas odit cupiditate atque doloremque
-                    aut quaerat libero iure mollitia dolores explicabo! Aperiam cupiditate incidunt asperiores quia fuga
-                    molestiae commodi eveniet ipsa!
+                    <h4 class="text-center"> Vision</h4>
+                    To be reputed for excellence in designing impactful and sustainable social and behavior
+                    change
+                    interventions.
                 </div>
             </div>
             <div class="profile-card">
@@ -18,9 +19,8 @@
                     <ion-icon name="time-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas odit cupiditate atque doloremque
-                    aut quaerat libero iure mollitia dolores explicabo! Aperiam cupiditate incidunt asperiores quia fuga
-                    molestiae commodi eveniet ipsa!
+                    <h4 class="text-center"> Mission</h4>
+                    Promoting positive behaviors and supporting social change.
                 </div>
             </div>
             <div class="profile-card">
@@ -28,9 +28,10 @@
                     <ion-icon name="paper-plane-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas odit cupiditate atque doloremque
-                    aut quaerat libero iure mollitia dolores explicabo! Aperiam cupiditate incidunt asperiores quia fuga
-                    molestiae commodi eveniet ipsa!
+                    <h4 class="text-center"> Objective</h4>
+
+                    Making a difference by contributing to solving the quality of life challenges faced
+                    by communities.
                 </div>
             </div>
         </div>
