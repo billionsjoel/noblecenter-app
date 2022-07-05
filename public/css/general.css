@@ -2,3 +2,24 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+.logo {
+    height: 5rem;
+    width: 5rem;
+}
+
+.text-primary {
+    color: #24afa8 !important;
+}
+
+.bg-primary {
+    background-color: #24afa8 !important;
+}
+
+.text-secondary {
+    color: #1f6aa5 !important;
+}
+
+.bg-secondary,
+.btn-primary {
+    background-color: #1f6aa5 !important;
+}
