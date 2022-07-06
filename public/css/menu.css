@@ -3,28 +3,28 @@
     width: 5rem;
 }
 
-.btn-donate {
-    background-color: #1f6aa5;
-    width: 6rem;
-    padding: 0.5rem;
-    text-align: center;
-    margin: auto;
-    font-size: 14px;
-    border-radius: 4px;
-    margin-left: 1rem;
-}
-
-.btn-donate:hover {
-    filter: brightness(85%);
-    cursor: pointer;
-}
-
 .color-secondary {
     color: #24afa8 !important;
+}
+.color-primary {
+    color: #1f6aa5;
+}
+
+.bg-secondary-c {
+    background-color: #24afa8;
+}
+.bg-primary-c {
+    background-color: #1f6aa5;
 }
 
 ul > li > a:hover {
     background-color: #1f6aa5 !important;
     color: antiquewhite !important;
     border-radius: 5px;
+}
+
+@media (max-width: 641px) {
+    .menu {
+        background-color: red;
+    }
 }

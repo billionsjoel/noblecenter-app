@@ -1,4 +1,4 @@
-    <div class="shadow-sm p-3 mb-5 bg-body rounded fixed-top">
+    <div class="shadow-sm p-3 mb-5 bg-body rounded">
         <nav class="navbar navbar-expand-md navbar-light container" aria-label="Fourth navbar example">
             <div class="container-fluid">
                 <a class="navbar-brand logo" href="{{ url('/') }}">
@@ -73,7 +73,7 @@
                             </li>
                         @endguest
                         <li class="nav-item">
-                            <a class="nav-link btn-donate text-white px-4"
+                            <a class="nav-link btn btn-sm btn-block bg-primary-c text-white px-4"
                                 href="{{ route('donate') }}">{{ __('Donate') }}</a>
                         </li>
                     </form>
