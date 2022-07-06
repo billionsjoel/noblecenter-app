@@ -9,11 +9,16 @@
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                 <div class="collapse navbar-collapse text-dark" id="navbarsExample04">
                     <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="{{ url('/') }}">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="{{ url('/expertise') }}">Expertise</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="{{ url('/focus') }}">Focus</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link " href="{{ url('/about-us') }}" tabindex="-1"
