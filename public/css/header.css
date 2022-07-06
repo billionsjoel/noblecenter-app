@@ -3,9 +3,10 @@
 }
 
 .header-image > img {
-    height: 550px;
-    width: 100%;
+    height: auto;
+    max-width: 100%;
     object-fit: cover;
+    margin-top: -6rem;
 }
 
 .header-content {
@@ -38,6 +39,13 @@
 }
 
 @media (min-width: 641px) {
+    .header-image > img {
+        height: auto;
+        max-width: 100%;
+        object-fit: cover;
+        margin-top: -4.9rem;
+    }
+
     .header {
         margin-top: 5rem;
     }
@@ -51,11 +59,15 @@
     .header-content > h3 {
         font-size: 14px;
         padding: 1rem;
+        color: white;
+        font-weight: 100;
+        letter-spacing: 2px;
     }
 
     .header-content {
-        z-index: 1000;
         position: relative;
-        top: -370px !important;
+        transform: translate(-50%, -50%);
+        top: -50rem;
+        left: 42rem;
     }
 }
