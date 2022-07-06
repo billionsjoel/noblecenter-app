@@ -45,3 +45,16 @@
         top: -370px !important;
     }
 }
+
+.btn-cta {
+    background-color: #1f6aa5;
+    width: 9rem;
+    padding: 1rem;
+    text-align: center;
+    margin: auto;
+}
+
+.btn-cta:hover {
+    filter: brightness(85%);
+    cursor: pointer;
+}

@@ -1,5 +1,24 @@
 .logo > img {
-    height: 5rem ;
-    width: 5rem ;
+    height: 5rem;
+    width: 5rem;
 }
 
+.btn-donate {
+    background-color: #1f6aa5;
+    width: 6rem;
+    padding: 0.5rem;
+    text-align: center;
+    margin: auto;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-left: 1rem;
+}
+
+.btn-donate:hover {
+    filter: brightness(85%);
+    cursor: pointer;
+}
+
+.color-secondary {
+    color: #24afa8 !important;
+}

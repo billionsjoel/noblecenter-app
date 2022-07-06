@@ -38,7 +38,8 @@
                         @guest
                             @if (Route::has('login'))
                                 <li class="nav-item">
-                                    <a class="nav-link text-primary" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                    <a class="color-secondary nav-link"
+                                        href="{{ route('login') }}">{{ __('Login') }}</a>
                                 </li>
                             @endif
                             {{-- @if (Route::has('register'))
@@ -67,7 +68,7 @@
                             </li>
                         @endguest
                         <li class="nav-item">
-                            <a class="nav-link btn btn-primary text-white px-4"
+                            <a class="nav-link btn-donate text-white px-4"
                                 href="{{ route('donate') }}">{{ __('Donate') }}</a>
                         </li>
                     </form>

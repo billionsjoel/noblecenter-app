@@ -6,6 +6,6 @@
     <div class="container header-content">
         <h1>NOBLE CENTER FOR BEHAVIOUR CHANGE</h1>
         <h3>Changing Behaviors, Transforming lives.</h3>
-        <div class="btn-cta text-white btn btn-primary mt-2">Get Started</div>
+        <div class="btn-cta text-white mt-2">Get Started</div>
     </div>
 </div>
