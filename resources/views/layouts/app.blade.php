@@ -28,6 +28,8 @@
     <link href="{{ asset('css/footer.css') }}" rel="stylesheet">
     <link href="{{ asset('css/about.css') }}" rel="stylesheet">
     <link href="{{ asset('css/contact.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/services.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/focus.css') }}" rel="stylesheet">
 </head>
 
 <body>

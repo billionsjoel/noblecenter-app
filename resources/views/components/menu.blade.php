@@ -15,7 +15,7 @@
                             <a class="nav-link" aria-current="page" href="{{ url('/') }}">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="{{ url('/expertise') }}">Expertise</a>
+                            <a class="nav-link" aria-current="page" href="{{ url('/services') }}">Expertise</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="{{ url('/focus') }}">Focus</a>
