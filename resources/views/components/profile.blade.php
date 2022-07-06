@@ -1,4 +1,4 @@
-<section>
+<section id="profile">
     <div class="profile container">
         <h2 class="text-center">A professional center for <span class="break">behavior change, Here's why</span>
         </h2>

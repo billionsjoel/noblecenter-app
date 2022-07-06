@@ -17,7 +17,13 @@
     <style>
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: white
+            background-color: white;
+            scroll-behavior: smooth;
+
+        }
+
+        html {
+            scroll-behavior: smooth;
         }
     </style>
 </head>

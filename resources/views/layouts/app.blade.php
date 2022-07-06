@@ -32,6 +32,12 @@
     <link href="{{ asset('css/focus.css') }}" rel="stylesheet">
 </head>
 
+<Style>
+    html {
+        scroll-behavior: smooth;
+    }
+</Style>
+
 <body>
     <div id="app">
         <main class="py-0">

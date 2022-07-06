@@ -4,8 +4,10 @@
             alt="">
     </div>
     <div class="container header-content">
-        <h1>NOBLE CENTER FOR BEHAVIOUR CHANGE</h1>
+        <h1>NOBLE CENTER FOR BEHAVIOR CHANGE</h1>
         <h3>Changing Behaviors, Transforming lives.</h3>
-        <div class="btn-cta text-white mt-2">Get Started</div>
+        <a href="#profile">
+            <div class="btn-cta text-white mt-2">Get Started</div>
+        </a>
     </div>
 </div>
