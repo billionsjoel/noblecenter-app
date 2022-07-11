@@ -33,6 +33,7 @@
     @include('./components/menu')
     @include('./components/header')
     @include('./components/profile')
+    @include('./components/philosophy')
     @include('./components/footer')
 </body>
 
