@@ -23,3 +23,11 @@
     padding: 2rem 2rem;
     margin-left: 2rem;
 }
+
+@media (max-width: 641px) {
+    #what {
+        margin: 6rem auto;
+        padding: 1rem 0 6rem 0;
+        background-color: aliceblue;
+    }
+}
