@@ -17,3 +17,18 @@
     padding: 1rem;
 }
 
+@media (max-width: 641px) {
+    .footer-container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .footer-content > ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}

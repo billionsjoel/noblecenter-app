@@ -7,37 +7,42 @@
                     tell us more about your interests and we’ll contact you soon.</p>
             </div>
 
-            <div class="contact-details">
-                <div class="contact-item">
-                    <div class="contact-icon">
-                        <ion-icon name="mail-outline"></ion-icon> <span> Email :</span>
-                    </div>
-                    <div class="contact-info--2">
-                        ncbehaviorchange@gmail.com
-                    </div>
-                </div>
-                <div class="contact-item">
-                    <div class="contact-icon">
-                        <ion-icon name="mail-outline"></ion-icon> <span>Contact :</span>
-                    </div>
-                    <div class="contact-info--2">
-                        +256 782-494211 or 702-152894
-                    </div>
-                </div>
-                <div class="contact-item">
-                    <div class="contact-icon">
-                        <ion-icon name="mail-outline"></ion-icon> <span>Address :</span>
-                    </div>
-                    <div class="contact-info--2">
-                        Kira – Bulindo Road, Kira Municipality
-                    </div>
-                </div>
-                <div class="contact-item">
-                    <div class="contact-icon">
-                        <ion-icon name="mail-outline"></ion-icon> <span>P.O.Box :</span>
-                    </div>
-                    <div class="contact-info--2">
-                        9770, Kampala(U)
+            <div class="row">
+                <div class="contact-details">
+
+                    <div class="col-md-6">
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <ion-icon name="mail-outline"></ion-icon> <span> Email :</span>
+                            </div>
+                            <div class="contact-info--2">
+                                ncbehaviorchange@gmail.com
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <ion-icon name="mail-outline"></ion-icon> <span>Contact :</span>
+                            </div>
+                            <div class="contact-info--2">
+                                +256 782-494211 or 702-152894
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <ion-icon name="mail-outline"></ion-icon> <span>Address :</span>
+                            </div>
+                            <div class="contact-info--2">
+                                Kira – Bulindo Road, Kira Municipality
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <ion-icon name="mail-outline"></ion-icon> <span>P.O.Box :</span>
+                            </div>
+                            <div class="contact-info--2">
+                                9770, Kampala(U)
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
