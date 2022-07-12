@@ -34,6 +34,9 @@
     @include('./components/header')
     @include('./components/profile')
     @include('./components/philosophy')
+    @include('./components/objective')
+    @include('./components/what')
+    @include('./components/values')
     @include('./components/footer')
 </body>
 

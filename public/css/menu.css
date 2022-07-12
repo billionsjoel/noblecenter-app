@@ -24,7 +24,4 @@ ul > li > a:hover {
 }
 
 @media (max-width: 641px) {
-    .menu {
-        background-color: red;
-    }
 }

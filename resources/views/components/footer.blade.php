@@ -2,7 +2,7 @@
     <footer class="footer container">
         <hr class="hr">
         <div class="footer-container">
-            <div class="logo">NFBC</div>
+            <div class="logo"><img src="{{ asset('/images/logo.png') }}" alt="" srcset=""></div>
             <div class="footer-content">
                 <ul>
                     <li>About Us</li>

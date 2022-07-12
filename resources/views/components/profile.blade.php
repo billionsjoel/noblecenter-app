@@ -1,10 +1,11 @@
 <section id="profile">
     <div class="profile container">
-        <h2 class="text-center">A professional center for <span class="break">behavior change, Here's why</span>
+        <h2 class="text-center text-blue f-w-100">A professional center for <span class="break">behavior change,
+                Here's why ...</span>
         </h2>
         <div class="profile-cards">
             <div class="profile-card">
-                <div class="icon">
+                <div class="icon breathing">
                     <ion-icon name="bulb-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
@@ -15,16 +16,16 @@
                 </div>
             </div>
             <div class="profile-card">
-                <div class="icon">
+                <div class="icon breathing">
                     <ion-icon name="time-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
                     <h4 class="text-center"> Mission</h4>
-                    Promoting positive behaviors and supporting social change.
+                    Promoting positive behaviors and supporting social change. <br /> &nbsp;
                 </div>
             </div>
             <div class="profile-card">
-                <div class="icon">
+                <div class="icon breathing">
                     <ion-icon name="paper-plane-outline"></ion-icon>
                 </div>
                 <div class="profile-text">

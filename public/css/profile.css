@@ -1,8 +1,13 @@
+.profile {
+}
+
 .profile-cards {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 4rem;
+    padding-bottom: 4rem;
 }
 
 .profile > h2 {
@@ -35,7 +40,7 @@
 }
 
 .profile-text {
-    text-align: justify;
+    text-align: left;
 }
 
 @media (min-width: 641px) {

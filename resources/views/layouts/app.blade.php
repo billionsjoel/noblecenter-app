@@ -30,6 +30,10 @@
     <link href="{{ asset('css/contact.css') }}" rel="stylesheet">
     <link href="{{ asset('css/services.css') }}" rel="stylesheet">
     <link href="{{ asset('css/focus.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/philosophy.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/objective.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/what.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/values.css') }}" rel="stylesheet">
 </head>
 
 <Style>

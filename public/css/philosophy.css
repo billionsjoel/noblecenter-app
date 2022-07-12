@@ -1,0 +1,32 @@
+#philosophy {
+    margin: 6rem auto;
+    padding: 1rem 6rem 6rem 6rem;
+    background-color: aliceblue;
+}
+
+.philosophy {
+    margin: 6rem auto;
+    background-color: aliceblue;
+    font-weight: 200;
+    font-size: 1rem;
+}
+
+.philosophy > h3 {
+    font-weight: 100;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.philosophy > p {
+    border-left: 2px solid #24afa8;
+    padding: 2rem 2rem;
+    margin-left: 2rem;
+}
+
+@media (max-width: 641px) {
+
+    .philosophy > p {
+        margin-left: -2rem;
+    }
+}

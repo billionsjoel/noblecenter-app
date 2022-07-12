@@ -1,0 +1,14 @@
+.value-title {
+    text-align: center;
+}
+
+.list-items {
+    padding: 0;
+    font-weight: 200;
+}
+
+.list-items > li {
+    padding: 1rem;
+    text-align: left;
+    margin-left: 2rem;
+}
