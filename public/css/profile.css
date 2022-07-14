@@ -1,4 +1,5 @@
 .profile {
+    font-weight: 200;
 }
 
 .profile-cards {
@@ -21,6 +22,11 @@
     width: 25rem;
     text-align: center;
     padding: 0 2rem;
+}
+
+.profile-text > h4 {
+    font-weight: 200;
+    text-transform: uppercase;
 }
 
 .icon {

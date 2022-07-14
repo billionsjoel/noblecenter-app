@@ -1,5 +1,6 @@
 .contact {
 }
+
 .contact-card {
     width: 400px;
     text-align: justify;
@@ -7,7 +8,6 @@
 
 .contact-details {
     border-radius: 5px;
-    width: 800px;
     padding: 2rem;
     box-shadow: 0px 2px 3px 0px;
     font-weight: 200;
@@ -38,4 +38,23 @@
     border: 1px solid #c3c3c0;
     border-radius: 100%;
     padding: 2rem;
+}
+
+@media (max-width: 641px) {
+    .contact-icon {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-icon > span {
+        text-align: center;
+    }
+
+    .contact-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
