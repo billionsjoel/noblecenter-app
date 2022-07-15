@@ -1,6 +1,6 @@
 <section id="focus">
     <div class="focus container">
-        <h2>OUR FOCUS AREAS (BUT ARE NOT LIMITED TO):</h2>
+        <h2 class="text-blue">OUR FOCUS AREAS</h2>
         <div class="focus-info">
             <div class="focus-item">
                 <h4>Health Sector</h4>

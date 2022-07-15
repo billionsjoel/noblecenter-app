@@ -1,15 +1,33 @@
 .contact {
+    color: #787777;
+    border: 1px dashed #24afa8;
+    padding: 4rem;
+    margin: 10rem auto;
+}
+
+.contact-cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 200;
+}
+
+.contact-cta > h4 {
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.contact-cta > img {
+    height: auto;
+    width: 4rem;
 }
 
 .contact-card {
-    width: 400px;
     text-align: justify;
 }
 
 .contact-details {
-    border-radius: 5px;
-    padding: 2rem;
-    box-shadow: 0px 2px 3px 0px;
     font-weight: 200;
     letter-spacing: 1px;
 }
@@ -35,12 +53,38 @@
 }
 
 .contact-icon > ion-icon {
-    border: 1px solid #c3c3c0;
+    border: 1px solid #24afa8;
     border-radius: 100%;
-    padding: 2rem;
+    padding: 1rem;
+}
+
+ion-icon {
+    color: #24afa8;
+}
+
+.btn-send {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.btn-send > ion-icon {
+    color: white;
+    font-size: 0.9rem;
 }
 
 @media (max-width: 641px) {
+    #contact {
+        padding: 1rem;
+    }
+    .contact {
+        color: #787777;
+        border: 1px dashed #24afa8;
+        padding: 4rem;
+        margin: 0 auto;
+    }
+
     .contact-icon {
         flex-direction: column;
         justify-content: center;

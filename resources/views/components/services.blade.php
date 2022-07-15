@@ -1,6 +1,6 @@
 <section id="services">
     <div class="services container">
-        <h2>Our Expertise</h2>
+        <h2 class="title text-blue mb-4">Our Expertise</h2>
         <div class="service-list">
             <div class="service">
                 <h4>Behavioral Research</h4>

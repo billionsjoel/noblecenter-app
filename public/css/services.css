@@ -1,6 +1,17 @@
-.services {
+.services > h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 100;
 }
 
-.service-list {
-    margin-top: 4rem;
+.service > h4 {
+    color: #24afa8;
+    font-weight: 200;
+}
+
+.service {
+    color: #787777;
+    font-weight: 200;
+    line-height: 2rem;
 }
