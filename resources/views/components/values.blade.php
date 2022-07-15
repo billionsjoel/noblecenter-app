@@ -1,7 +1,7 @@
 <section id="objective">
     <div class="objective container">
         <div class="cards">
-            <div class="content card right">
+            <div class="content card right" data-aos="fade">
                 <img src="{{ asset('images/baby-with-mum.jpeg') }}"
                     class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
                     alt="">
