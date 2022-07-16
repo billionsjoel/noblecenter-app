@@ -14,6 +14,31 @@
     line-height: 2rem;
 }
 
+.person > span {
+    text-align: end;
+}
+
 .person > h4 {
     margin: 2rem 0 0 0;
+}
+
+@media (max-width: 641px) {
+    #team {
+        margin-top: -2rem;
+    }
+    .person {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .person > img {
+        margin-top: 1rem;
+    }
+
+    .person > p {
+        text-align: left;
+        padding: 1rem;
+    }
 }

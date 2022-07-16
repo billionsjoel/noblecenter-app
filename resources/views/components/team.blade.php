@@ -17,6 +17,9 @@
                     He has managed and advised different programs and diverse teams focused on agriculture, health, food
                     security and nutrition, to mention but a few. Justin holds an MA. Rural Development from Makerere
                     University and a Bachelor's degree in Communications; also from Makerere University.</p>
+                <span class="text-blue italics f-w-200">
+                    ~ Executive Director & founder
+                </span>
             </div>
         </div>
     </div>
