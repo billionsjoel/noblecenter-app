@@ -29,6 +29,7 @@
     font-weight: 200;
     margin-top: 1rem;
     font-size: 1rem;
+    color: #000000;
 }
 
 @media (max-width: 641px) {

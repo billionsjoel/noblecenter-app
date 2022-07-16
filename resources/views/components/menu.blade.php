@@ -1,4 +1,4 @@
-    <div class="shadow-sm p-3 mb-5 bg-body rounded menu">
+    <div class="menu shadow-sm p-3 mb-5 bg-body rounded">
         <nav class="navbar navbar-expand-md navbar-light container" aria-label="Fourth navbar example">
             <div class="container-fluid">
                 <a class="navbar-brand logo" href="{{ url('/') }}">

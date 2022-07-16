@@ -25,13 +25,13 @@
 .header-content > h1 {
     font-size: 55px;
     font-weight: 100;
-    color: aliceblue;
+    color: #ffffff;
 }
 
 .header-content > h3 {
     font-size: 1.5rem !important;
     padding: 1rem;
-    color: white;
+    color: #ffffff;
     font-weight: 100;
     letter-spacing: 2px;
 }
