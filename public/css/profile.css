@@ -15,8 +15,8 @@
 .profile > h2 {
     padding: 3rem 2rem 3rem 2rem;
     font-weight: 300;
-    font-size: 30px;
-    line-height: 3rem;
+    font-size: 3rem;
+    line-height: 4rem;
 }
 
 .profile-card {
@@ -31,7 +31,7 @@
 }
 
 .icon {
-    background-color: rgb(216, 213, 213);
+    border: 1px solid #24afa8;
     border-radius: 100px;
     height: 5rem;
     width: 5rem;
