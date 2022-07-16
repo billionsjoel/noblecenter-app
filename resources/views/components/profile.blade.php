@@ -5,7 +5,7 @@
         </h2>
         <div class="profile-cards">
             <div class="profile-card">
-                <div class="icon breathing">
+                <div class="icon">
                     <ion-icon name="bulb-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="profile-card">
-                <div class="icon breathing">
+                <div class="icon">
                     <ion-icon name="time-outline"></ion-icon>
                 </div>
                 <div class="profile-text">
@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="profile-card">
-                <div class="icon breathing">
+                <div class="icon">
                     <ion-icon name="paper-plane-outline"></ion-icon>
                 </div>
                 <div class="profile-text">

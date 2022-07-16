@@ -102,13 +102,13 @@
                         <img src="{{ 'images/airtel.jpeg' }}"
                             class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
                             alt="">
-                        <span>+256 750 895 982</span>
+                        <span>+256 702 152 894</span>
                     </div>
                     <div class="pay-detail">
                         <img src="{{ 'images/mtn.jpeg' }}"
                             class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
                             alt="">
-                        <span>+256 777 342 488</span>
+                        <span>+256 782 494 211</span>
                     </div>
 
                 </div>

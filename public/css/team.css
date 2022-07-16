@@ -1,0 +1,19 @@
+.team {
+    padding: 1rem;
+}
+
+.person > img {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 100%;
+    border: 3px solid #24afa8;
+}
+
+.person > p {
+    font-weight: 200;
+    line-height: 2rem;
+}
+
+.person > h4 {
+    margin: 2rem 0 0 0;
+}
