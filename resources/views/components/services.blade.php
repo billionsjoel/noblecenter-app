@@ -5,7 +5,7 @@
             <div class="service">
                 <h4>Consulting Support</h4>
                 <div class="service-info">
-                    <p>TWe offer consultancy services to organizations in both the profit and not-for-profit sectors.
+                    <p>We offer consultancy services to organizations in both the profit and not-for-profit sectors.
                         Our
                         consultancy model is designed to build partnerships and capacity, and we seek to enable our
                         partners
@@ -27,12 +27,40 @@
                 </div>
             </div>
             <div class="service">
+                <h4>Advocacy</h4>
+                <div class="service-info">
+                    <p>Many times, individual and community behavior change isn’t enough to overcome barriers to desired
+                        changes. Sometimes the system is the greater barrier. That’s why advocacy is a critical piece of
+                        our
+                        work.
+                        Part of creating sustainable change often involves winning the backing of decision-makers,
+                        policymakers and others who can commit the resources, enact the necessary policies to support
+                        good
+                        behavior practices or remove structural hurdles standing in the way. The advocacy tools we use
+                        focus
+                        on identifying the right decision-makers and presenting them with a doable ask, using a
+                        systematic
+                        approach to ensure change happens. Achieving lasting change with advocacy is just another
+                        example of
+                        what behavior change can accomplish.
+                    </p>
+                </div>
+            </div>
+            <div class="service">
                 <h4>Training Workshops</h4>
                 <div class="service-info">
                     <p>Noble Center for Behavior Change offers training programs for organizations and individuals
                         through workshops, seminars and presentations, webinar seminars, among others. We aim at
                         equipping our clients with behavior change information and skills to improve their programs.</p>
                 </div>
+            </div>
+        </div>
+        <div class="service">
+            <h4>Policy</h4>
+            <div class="service-info">
+                <p>To act as a think tank for policy makers in providing behavioral solutions on contemporary real world
+                    challenges and opportunities.
+                </p>
             </div>
         </div>
         <div class="service">
@@ -46,29 +74,6 @@
                     change, psychology, public health, nutrition, communication, health promotion, agriculture,
                     education, media, creative design, broadcasting, behavior change research, and other development
                     areas.
-                </p>
-            </div>
-        </div>
-        <div class="service">
-            <h4>Advocacy</h4>
-            <div class="service-info">
-                <p>Many times, individual and community behavior change isn’t enough to overcome barriers to desired
-                    changes. Sometimes the system is the greater barrier. That’s why advocacy is a critical piece of our
-                    work.
-                    Part of creating sustainable change often involves winning the backing of decision-makers,
-                    policymakers and others who can commit the resources, enact the necessary policies to support good
-                    behavior practices or remove structural hurdles standing in the way. The advocacy tools we use focus
-                    on identifying the right decision-makers and presenting them with a doable ask, using a systematic
-                    approach to ensure change happens. Achieving lasting change with advocacy is just another example of
-                    what behavior change can accomplish.
-                </p>
-            </div>
-        </div>
-        <div class="service">
-            <h4>Policy</h4>
-            <div class="service-info">
-                <p>To act as a think tank for policy makers in providing behavioral solutions on contemporary real world
-                    challenges and opportunities.
                 </p>
             </div>
         </div>

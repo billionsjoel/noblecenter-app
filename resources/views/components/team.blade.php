@@ -1,6 +1,6 @@
 <section id="team">
     <div class="team container">
-        <h2 class="text-center text-blue f-w-100 display-3">Our Team</h2>
+        <h2 class="text-center text-blue f-w-100 display-3 uppercase">Our Team</h2>
         <div class="details">
             <div class="person">
                 <img src="{{ 'images/justin.jpeg' }}"
@@ -9,7 +9,7 @@
 
                 <h4 class="title text-blue display-7 f-w-100">Justin Wasswa</h4>
 
-                <p class="bio">is the Executive Director and Founder of Noble Center for Behavior Change, where he
+                <p class="bio">Is the Executive Director and Founder of Noble Center for Behavior Change, where he
                     focuses on behavior change; management and social impact.
                     He has over 15 years' experience working with government, business, non-profit private companies and
                     multi-lateral organizations. Justin is passionate about people centred solutions and creative

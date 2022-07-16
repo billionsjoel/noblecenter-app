@@ -33,6 +33,7 @@
     @include('./layouts/app')
     @include('./components/menu')
     @include('./components/header')
+    @include('./components/what')
     @include('./components/profile')
     @include('./components/philosophy')
     @include('./components/objective')
