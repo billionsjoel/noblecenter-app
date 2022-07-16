@@ -3,6 +3,20 @@
         <h2 class="title text-blue mb-4">Our Expertise</h2>
         <div class="service-list">
             <div class="service">
+                <h4>Consulting Support</h4>
+                <div class="service-info">
+                    <p>TWe offer consultancy services to organizations in both the profit and not-for-profit sectors.
+                        Our
+                        consultancy model is designed to build partnerships and capacity, and we seek to enable our
+                        partners
+                        to leverage our expertise in behavior change. Whether you are interested in having a long-term
+                        strategic alliance with us for any given campaign or program, we are ready to work with you.
+                        Our services include: designing projects or programs focusing on behavior change; developing,
+                        implementing and evaluating behavior change interventions for different sectors; among others.
+                    </p>
+                </div>
+            </div>
+            <div class="service">
                 <h4>Behavioral Research</h4>
                 <div class="service-info">
                     <p>We offer expertise in behavior change research and the evaluation of change programs. We bring
@@ -32,18 +46,6 @@
                     change, psychology, public health, nutrition, communication, health promotion, agriculture,
                     education, media, creative design, broadcasting, behavior change research, and other development
                     areas.
-                </p>
-            </div>
-        </div>
-        <div class="service">
-            <h4>Consulting Support</h4>
-            <div class="service-info">
-                <p>TWe offer consultancy services to organizations in both the profit and not-for-profit sectors. Our
-                    consultancy model is designed to build partnerships and capacity, and we seek to enable our partners
-                    to leverage our expertise in behavior change. Whether you are interested in having a long-term
-                    strategic alliance with us for any given campaign or program, we are ready to work with you.
-                    Our services include: designing projects or programs focusing on behavior change; developing,
-                    implementing and evaluating behavior change interventions for different sectors; among others.
                 </p>
             </div>
         </div>
