@@ -22,6 +22,24 @@ ul > li > a:hover {
     color: antiquewhite !important;
     border-radius: 5px;
 }
+.pay-detail {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.pay-detail > img {
+    height: 4rem;
+    width: 4rem;
+}
+
+.pay-detail > span {
+    /*font-size: 1.2rem;*/
+    color: #24afa8;
+    font-weight: 200;
+}
 
 @media (max-width: 641px) {
 }

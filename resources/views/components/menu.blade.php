@@ -26,6 +26,10 @@
                                 us</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link " href="{{ url('/team') }}" tabindex="-1"
+                                aria-disabled="true">Team</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link " href="{{ url('/contact-us') }}" tabindex="-1"
                                 aria-disabled="true">Contact Us</a>
                         </li>
@@ -42,10 +46,10 @@
                     <form class="navbar-nav ms-auto">
                         @guest
                             @if (Route::has('login'))
-                                <li class="nav-item">
+                                {{-- <li class="nav-item">
                                     <a class="color-secondary nav-link"
                                         href="{{ route('login') }}">{{ __('Login') }}</a>
-                                </li>
+                                </li> --}}
                             @endif
                             {{-- @if (Route::has('register'))
                                 <li class="nav-item">
@@ -73,11 +77,44 @@
                             </li>
                         @endguest
                         <li class="nav-item">
-                            <a class="nav-link btn btn-sm btn-block bg-blue text-white px-4"
-                                href="{{ route('donate') }}">{{ __('Donate') }}</a>
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn bg-blue btn-sm text-white" data-bs-toggle="modal"
+                                data-bs-target="#exampleModal">
+                                Donate
+                            </button>
                         </li>
                     </form>
                 </div>
             </div>
         </nav>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-blue f-w-200 uppercase" id="exampleModalLabel">Donation Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="pay-detail">
+                        <img src="{{ 'images/airtel.jpeg' }}"
+                            class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
+                            alt="">
+                        <span>+256 750 895 982</span>
+                    </div>
+                    <div class="pay-detail">
+                        <img src="{{ 'images/mtn.jpeg' }}"
+                            class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
+                            alt="">
+                        <span>+256 777 342 488</span>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <p class="text-blue">Thank you for your donation!</p>
+                </div>
+            </div>
+        </div>
     </div>

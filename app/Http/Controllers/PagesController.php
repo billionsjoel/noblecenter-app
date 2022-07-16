@@ -25,4 +25,8 @@ class PagesController extends Controller
     {
         return view('pages/focus');
     }
+    public function team()
+    {
+        return view('pages/team');
+    }
 }

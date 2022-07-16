@@ -34,6 +34,7 @@
     <link href="{{ asset('css/objective.css') }}" rel="stylesheet">
     <link href="{{ asset('css/what.css') }}" rel="stylesheet">
     <link href="{{ asset('css/values.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/team.css') }}" rel="stylesheet">
 </head>
 
 <Style>
