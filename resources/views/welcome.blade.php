@@ -37,7 +37,7 @@
     @include('./components/profile')
     @include('./components/philosophy')
     @include('./components/objective')
-    @include('./components/what')
+    @include('./components/partnership')
     @include('./components/values')
     @include('./components/footer')
 

@@ -1,6 +1,9 @@
 .team {
     padding: 1rem;
 }
+.person {
+    margin-top: 2rem;
+}
 
 .person > img {
     height: 10rem;

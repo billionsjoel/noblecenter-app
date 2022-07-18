@@ -9,7 +9,7 @@
                 </p>
             </div>
             <div class="content card right">
-                <img src="https://images.unsplash.com/photo-1523881374236-dd34f6ac1226?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3130&q=80"
+                <img src="{{ asset('images/clean-water.jpeg') }}"
                     class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
                     alt="">
             </div>
