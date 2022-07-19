@@ -2,7 +2,7 @@
     <div class="objective container">
         <div class="cards">
             <div class="content card right">
-                <img src="{{ asset('images/baby-with-mum.jpeg') }}"
+                <img src="{{ asset('images/restored.jpeg') }}"
                     class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}"
                     alt="">
             </div>
