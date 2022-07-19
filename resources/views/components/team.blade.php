@@ -113,7 +113,7 @@
                     He holds a Post Graduate Certificate in Project Monitoring and Evaluation from Makerere University;
                     a Masters Degree in Education and Bachelor's Degree in Education; both from Makerere University.</p>
                 <span class="text-blue italics f-w-200">
-                    ~ Social and Behavior Change Advisor
+                    ~ Research, Monitoring and Evaluation Specialist
                 </span>
             </div>
         </div>
