@@ -5,7 +5,7 @@
             <div class="content left">
                 <h5 class="text-blue">WHAT IS SOCIAL AND BEHAVIOR CHANGE?
                 </h5>
-                <p>Social and Behavior Change (SBC) is the process of applying research and theory - based
+                <p>Social and Behavior Change (SBC) is the process of applying research and theory-based
                     approaches to
                     identify opportunities to change behaviors at the individual, community, and/or societal levels.
                 </p>
@@ -19,8 +19,8 @@
                     The vast majority of development interventions have one thing in common: their goals can be
                     achieved
                     only if the target groups start practicing new behaviors.
-
-                    Many development interventions fail because they are based on incorrect assumptions why people
+                </p>
+                <p>Many development interventions fail because they are based on incorrect assumptions why people
                     do
                     not practice the promoted behaviors.
 
