@@ -17,6 +17,13 @@
                         health to malaria to family planning. Our one goal: improving people’s health.</p>
                 </div>
             </div>
+            <div class="row mb-4">
+                <div class="col-md-12">
+                    <img src="{{ asset('images/testing-health.jpeg') }}"
+                        class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|} center"
+                        alt="">
+                </div>
+            </div>
             <div class="focus-item">
                 <h4>Environment and Nature Conservation
                 </h4>
@@ -40,9 +47,9 @@
                 <div class="focus-item">
                     <h4>Eradicating social problems</h4>
                     <div class="focus-content">
-                        (Tackling the plight of street children; Prostitution; Anti-Pornography campaigns; Humanitarian
+                        Tackling the plight of street children; Prostitution; Anti-Pornography campaigns; Humanitarian
                         assistance programs; Helping people living in slums towards a better life; Preventing the
-                        occurrence of child abuses; Addressing criminality)
+                        occurrence of child abuses; Addressing criminality, among others.
                         </p>
                     </div>
                 </div>

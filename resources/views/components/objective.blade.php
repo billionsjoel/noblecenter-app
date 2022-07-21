@@ -19,14 +19,15 @@
                     The vast majority of development interventions have one thing in common: their goals can be
                     achieved
                     only if the target groups start practicing new behaviors.
-                </p>
-                <p>Many development interventions fail because they are based on incorrect assumptions why people
+
+                    <br>Many development interventions fail because they are based on incorrect assumptions why people
                     do
                     not practice the promoted behaviors.
 
                     Understanding exactly which factors prevent people from practicing the promoted behaviors and
                     subsequently addressing the identified barriers is the single most effective way to achieve the
-                    desired behavior.</p>
+                    desired behavior.</br>
+                </p>
             </div>
             <div class="content card right">
                 <img src="{{ asset('images/clean-water.jpeg') }}"

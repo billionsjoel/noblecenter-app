@@ -55,6 +55,13 @@
                 </div>
             </div>
         </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <img src="{{ asset('images/tea-peaking.jpeg') }}"
+                    class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|} center"
+                    alt="">
+            </div>
+        </div>
         <div class="service">
             <h4>Policy</h4>
             <div class="service-info">

@@ -28,6 +28,13 @@
                 and
                 Behavior Change experts, help address and the answers are critical to improving lives.
             </p>
+            <div class="row mb-4">
+                <div class="col-md-12">
+                    <img src="{{ asset('images/happy-pupils.jpeg') }}"
+                        class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|} center"
+                        alt="">
+                </div>
+            </div>
             <p>
                 Whether you want people to stop polluting fresh water bodies; to end child marriages in society;
                 encourage farmers to adopt new innovative and sustainable farming practices; encourage people living
