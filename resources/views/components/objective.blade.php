@@ -20,7 +20,8 @@
                     achieved
                     only if the target groups start practicing new behaviors.
 
-                    <br>Many development interventions fail because they are based on incorrect assumptions why people
+                    <br>&nbsp;&nbsp;Many development interventions fail because they are based on incorrect assumptions
+                    why people
                     do
                     not practice the promoted behaviors.
 
