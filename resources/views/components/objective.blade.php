@@ -14,18 +14,19 @@
 
                 <p> Human behavior is complex - a combination of influences is often necessary to trigger a person
                     to
-                    test, adopt and sustain new behaviors.
+                    test, adopt and sustain new behaviors.<br><br>
 
                     The vast majority of development interventions have one thing in common: their goals can be
                     achieved
                     only if the target groups start practicing new behaviors.
 
-                    <br>&nbsp;&nbsp;Many development interventions fail because they are based on incorrect assumptions
+                    <br><br>Many development interventions fail because they are based on incorrect assumptions
                     why people
                     do
                     not practice the promoted behaviors.
 
-                    Understanding exactly which factors prevent people from practicing the promoted behaviors and
+                    <br><br>Understanding exactly which factors prevent people from practicing the promoted behaviors
+                    and
                     subsequently addressing the identified barriers is the single most effective way to achieve the
                     desired behavior.</br>
                 </p>
