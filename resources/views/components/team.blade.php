@@ -9,14 +9,15 @@
 
                 <h4 class="title text-blue display-7 f-w-100">Justin Wasswa</h4>
 
-                <p class="bio">Is the Executive Director and Founder of Noble Center for Behavior Change, where he
-                    focuses on behavior change; management and social impact.
-                    He has over 15 years' experience working with government, business, non-profit private companies and
-                    multi-lateral organizations. Justin is passionate about people centred solutions and creative
-                    partnerships.
-                    He has managed and advised different programs and diverse teams focused on agriculture, health, food
-                    security and nutrition, to mention but a few. Justin holds an MA. Rural Development from Makerere
-                    University and a Bachelor's degree in Communications; also from Makerere University.</p>
+                <p class="bio">He is the Executive Director and Founder of Noble Center for Behavior Change. He is a
+                    Behavior Change Specialist. Justin focuses on promoting positive behaviors, supporting social change
+                    and transforming people's lives. He has over 20 years' experience working with government,
+                    businesses, not-for-profit institutions, private companies and multi-lateral organizations. He is
+                    passionate about people centered solutions and creative partnerships. He has managed and advised
+                    different programs and diverse teams focused on health, sanitation, food nutrition and security,
+                    economic empowerment initiatives, agriculture and other issues throughout Uganda. Justin holds an
+                    MA.in Rural Development and a Bachelor's Degree in Communications; both from Makerere University.
+                </p>
                 <span class="text-blue italics f-w-200">
                     ~ Executive Director & Founder
                 </span>
